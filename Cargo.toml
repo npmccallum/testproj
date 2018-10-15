@@ -6,4 +6,3 @@ authors = ["nmccallu <npmccallum@redhat.com>"]
 [dependencies]
 codicon = "1.0.0"
 endicon = "1.0.0"
-lebicon = "2.0.0"
